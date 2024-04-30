@@ -2,12 +2,12 @@ import firebase from 'firebase/app'
 import 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCT0WcVhwL89c9Dfp2nebbJgreWfzpfprM",
-    authDomain: "enid-s-kitchen.firebaseapp.com",
+    apiKey: "#",
+    authDomain: "#",
     projectId: "enid-s-kitchen",
-    storageBucket: "enid-s-kitchen.appspot.com",
-    messagingSenderId: "551091204135",
-    appId: "1:551091204135:web:e025a803b2955548649e02"
+    storageBucket: "#",
+    messagingSenderId: "#",
+    appId: "#"
   };
 
   //initialize firebase
